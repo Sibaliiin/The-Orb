@@ -10,3 +10,6 @@ The Arcane includes:
 - Physics
 - Chemistry
 - Biology
+
+
+I am using Obsidian to read and edit my notes. Simply clone this repo into a directory and open the directory as the vault.
