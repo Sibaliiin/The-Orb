@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Helpful small theorems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Helpful small theorems"
             }
           }
         ]
@@ -53,12 +53,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mathematics/Algebra and Number Theory/Divisibility.md",
+                    "file": "Helpful small theorems.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Divisibility"
+                  "title": "Helpful small theorems"
                 }
               }
             ]
@@ -228,21 +228,25 @@
   },
   "active": "0ee3711ade862822",
   "lastOpenFiles": [
-    "Other/Notation.md",
-    "Mathematics/Algebra and Number Theory/Divisibility.md",
-    "Other",
-    "Mathematics/Algebra and Number Theory/Q - Rational numbers.md",
-    "Mathematics/Proofs/Proof by contradiction.md",
-    "Mathematics/Proofs",
-    "README.md",
     "Mathematics/Algebra and Number Theory/The irrationality of the square root of two.md",
+    "Mathematics/Algebra and Number Theory/Divisibility.md",
+    "Helpful small theorems.md",
+    "Mathematics/Algebra and Number Theory/Z - Whole numbers.md",
+    "Mathematics/Proofs/Proof by contradiction.md",
+    "Other/Notation.md",
+    "Euler's number is transcendental.md",
+    "Pi.md",
+    "README.md",
+    "Mathematics/Algebra and Number Theory/Euler's number.md",
+    "Mathematics/Algebra and Number Theory/Q - Rational numbers.md",
     "Mathematics/Algebra and Number Theory/Q* - Irrational numbers.md",
+    "Other",
+    "Mathematics/Proofs",
     "irrational.md",
     "p roof by contradiction.md",
     "Mathematics/Algebra and Number Theory",
     "Number theory",
     "Mathematics/Algebra and Number Theory/irrational\"Q* - Irrational numbers.md",
-    "Mathematics/Algebra and Number Theory/Z - Whole numbers.md",
     "Mathematics"
   ]
 }
