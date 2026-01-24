@@ -1,5 +1,5 @@
-This is the Orb. All of my knowledge of the Arcane is stored here.
-The Arcane includes:
+This is the Orb. All of my knowledge of the Sciences are stored here.
+This includes:
 - Mathematics
 	- Logic and Proofs
 	- Algebra and Number Theory
@@ -10,5 +10,5 @@ The Arcane includes:
 - Chemistry
 - Biology
 
-
-I am using Obsidian to read and edit my notes. Simply clone this repo into a directory and open the directory as the vault.
+---
+I am using Obsidian to read and edit my notes. Simply clone this repository into a directory and open the directory as the vault.

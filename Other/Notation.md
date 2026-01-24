@@ -2,7 +2,7 @@ We use several different symbols in sciences which can mean several different th
 Another helpful article: [Mathematical notation](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 # Set theory and Logical symbols
 ---
-$\in$: the "left" elements is "in" the right element \
+$\in$: the "left" elements are "in" the right element \
 $\forall$: denotes "all", "for all elements..." \
 $\exists$: something "exists" \
 $!\exists$: there exists "only one" element... 

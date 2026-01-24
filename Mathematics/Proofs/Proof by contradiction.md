@@ -2,3 +2,6 @@ This is a method of proving a logical statement by taking the statement's negati
 
 # Some examples
 $\sqrt{2}$ is irrational $\to$ $\sqrt{2}$ is rational.
+
+# Why does it work?
+We need to look at the logical foundation of the proof.
